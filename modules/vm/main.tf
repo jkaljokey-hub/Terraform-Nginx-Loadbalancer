@@ -19,7 +19,7 @@ module "network" {
   subnet_prefix = ["10.0.1.0/24"]
 }
 
-# NGINX Load Balancer VM
+# NGINX Load Balancer VMs
 module "nginx_lb" {
   source              = "./modules/vm"
   resource_group_name = azurerm_resource_group.rg.name
