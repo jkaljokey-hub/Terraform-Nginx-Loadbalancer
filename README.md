@@ -3,7 +3,9 @@
 This project demonstrates how to deploy a Linux-based NGINX Load Balancer on Microsoft Azure using the Azure Portal, distributing traffic across multiple backend web servers.
 It follows a real-world architecture used in production environments.
 
+ ## 📊 Architecture Diagram
 
+![ERP Azure Architecture](https://github.com/jkaljokey-hub/Terraform-Nginx-Loadbalancer/blob/master/assert/Copilot_20260419_063348.png?raw=true)
 
 
 
